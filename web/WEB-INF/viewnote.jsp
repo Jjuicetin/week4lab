@@ -12,6 +12,9 @@
         <title>View deez</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>View Note</h1>
+        <h3>Title:</h3>
+        <h3>Contents:</h3>
+        <a href="Note">edit </a>
     </body>
 </html>
